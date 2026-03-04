@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jules.bacart@efrei.net**
 
-- ⚡ Fun fact **I build planes**
+- ⚡ Hobbies: ✈️ Aviation: As a BIA holder and instructor at Efrei, I have a deep-seated passion for aeronautics. I’m fascinated by everything from aircraft engineering and design to the thrill of being in the cockpit.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
