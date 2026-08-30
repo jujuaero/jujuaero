@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
-<h3 align="center">Étudiant Ingénieur à l'Efrei Paris | Majeure Réseau & Sécurité</h3>
+<h3 align="center">Étudiant Ingénieur à l'Efrei Paris | Majeure Système Embarqué Robotique et Drone</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujuaero&label=Profile%20views&color=0e75b6&style=flat" alt="jujuaero" /> </p>
 
